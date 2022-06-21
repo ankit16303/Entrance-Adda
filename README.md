@@ -1,2 +1,1 @@
-# newrepo
-This are the source codes of my educational website "EntranceAdda"
+A Website thats helps the students to get fine notes for entrance examinations like MHT-CET , JEE-MAINS, NEET, ETC.
